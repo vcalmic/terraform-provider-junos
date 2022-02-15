@@ -36,6 +36,8 @@ The following arguments are supported:
   Contact information for administrator.
 - **description** (Optional, String)  
   System description.
+- **engine_id** (Optional, String)  
+  SNMPv3 engine ID.
 - **filter_duplicates** (Optional, Boolean)  
   Filter requests with duplicate source address/port and request ID.
 - **filter_interfaces** (Optional, Set of String)  
